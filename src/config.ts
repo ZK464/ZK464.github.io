@@ -74,6 +74,16 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/ZK464",
 		},
+		{	
+			name: "leetcode",
+			icon: "simple-icons:leetcode",
+			url: "https://leetcode.cn/u/zacharyyang/",
+		},
+		{
+			name: "QQ",
+			icon: "fa6-brands:qq",
+			url: "https://qm.qq.com/cgi-bin/qm/qr?k=2603550369", 
+		}
 	],
 };
 
